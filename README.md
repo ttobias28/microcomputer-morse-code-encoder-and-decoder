@@ -1,4 +1,4 @@
-# Grid Maze Pathfinding: BFS, DFS, A*, and ACO Comparison
+# Microcontroller-based Morse Code Encoder and Decoder
 
 ## Team Members
 
