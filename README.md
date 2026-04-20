@@ -15,4 +15,11 @@
 
 ---
 ## Software and Hardware Included
-what to have installed, how to ste up MAYBE DELETE THIS
+Software:
+
+- Keil uVision5, coding in C code.
+
+Hardware: 
+
+- STM32 NUCLEO-L476RG
+- EDUBase V2
