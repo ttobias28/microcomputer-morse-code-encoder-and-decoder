@@ -6,8 +6,13 @@
 - Teagan Tobias ([@ttobias28](https://github.com/ttobias28))
   
 ---
-## Problem Description:
+## Problem Summary
+
 
 ---
-## How to Run this Project
+## Project Capabilities and Goals
+
+
+---
+## Software and Hardware Included
 what to have installed, how to ste up MAYBE DELETE THIS
